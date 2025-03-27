@@ -17,8 +17,8 @@ Notas - Programação MultiParadigmas
 
 ### CRITÉRIOS DE ORTOGONALIDADE
 - CONSISTÊNCIA / ESTRUTURAS DE DADOS
-    - [] Declaração e atribuição de valores
-    - [] Sobrecarga de operadores (+ - * / % and or not && || != !== == === )
+    - [X] Declaração e atribuição de valores
+    - [X] Sobrecarga de operadores (+ - * / % and or not && || != !== == === )
     - [] Conversões implícitas, truncamentos, arredondamentos
     - [] Tipos primitivos (int, float, double, bool, null, void, undefined)
     - [] Arrays, listas, structs, union, enum, objetos literais, conjuntos, dicionários etc...
