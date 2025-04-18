@@ -1,0 +1,1 @@
+from .cls import Weapon, Potion, Monster, PersonagemGame
