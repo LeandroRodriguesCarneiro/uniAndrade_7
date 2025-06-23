@@ -1,6 +1,6 @@
-from .inimigo import Enemy
+from .inimigo import Inimigo
 
-class MortoVivo(Enemy):
+class MortoVivo(Inimigo):
     def __init__(self, nome):
         super().__init__(nome, vida=60, dano=15)
 

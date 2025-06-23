@@ -1,5 +1,5 @@
 from abc import abstractmethod
-from ..entidade import Entidade
+from entidade.entidade import Entidade
 
 class Inimigo(Entidade):
     def __init__(self, nome, vida, dano):
