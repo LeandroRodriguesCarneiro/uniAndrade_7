@@ -1,5 +1,5 @@
-from jogador import Cavaleiro
+from game_engine import GameEngine
 
-if __name__ == '__main__':
-    p1 = Cavaleiro('Matheus', 80)
-    print(p1.saude)
+if __name__ == "__main__":
+    jogo = GameEngine()
+    jogo.menu()
